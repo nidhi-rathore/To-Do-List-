@@ -9,6 +9,7 @@ ReactDOM.render(<App />, document.getElementById("root"));
 //Your job is to make the app work as it did before but this time with the
 //InputArea as a seperate Component.
 
+
 // DO NOT: Modify the ToDoItem.jsx
 // DO NOT: Move the input/button elements back into the App.jsx
 
