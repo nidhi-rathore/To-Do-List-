@@ -17,4 +17,3 @@ ReactDOM.render(<App />, document.getElementById("root"));
 //in InputArea.jsx.
 //Hint 2: You will need to think about how to pass the input value back into
 //the addItem() function in App.jsx.
-// Just test comment added
