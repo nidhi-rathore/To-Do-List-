@@ -4,7 +4,6 @@ import InputArea from "./InputArea";
 
 function App() {
   const [items, setItems] = useState([]);
-  const [addItems, addSetItems] = useState([]);
   
   function addItem(inputText) {
     setItems(prevItems => {
